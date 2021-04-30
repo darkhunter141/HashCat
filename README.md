@@ -1,5 +1,5 @@
 # HashCat
-Advanced MD5 Hash Password Decryptor Tool Termux.Auto detect hash🔥
+Advanced & Powerful MD5 Hash Password Decryptor Tool Termux.Auto detect hash🔥
 
 <h3><b><i>🖥️ Contact Info </i></b></h3>
 <li>  <i><a href="https://www.facebook.com/darkhunter141/">Our Facebook Page </a></i></li>

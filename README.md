@@ -1,5 +1,8 @@
 # HashCat
 Advanced & Powerful MD5 Hash Password Decryptor Tool Termux.Auto detect hash🔥
+<br>
+<h3><b>Installation : </b></h3>
+<br>
 
 ```
  pkg install python2

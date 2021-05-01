@@ -4,6 +4,20 @@ Advanced & Powerful MD5 Hash Password Decryptor Tool Termux.Auto detect hash🔥
 <h3><b>Hash Password Decryption Using Websites</b></h3>
 <br>
 
+```
+ pkg install python2
+```
+```
+ git clone https://github.com/darkhunter141/G-Bomber-141
+```
+```
+ cd Has
+```
+```
+ python2 hashcat
+
+```
+
 <img src="https://github.com/darkhunter141/HashCat/blob/main/IMG_20210430_233925.jpg">
 <br>
 <h3><b>Hash Password Decryption Using 1M Database</b></h3>
